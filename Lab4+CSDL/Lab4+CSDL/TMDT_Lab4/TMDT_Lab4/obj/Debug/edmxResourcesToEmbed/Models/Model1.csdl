@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TMDT5Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="laptop">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Company" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Product" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Inches" Type="Double" />
+    <Property Name="ScreenResolution" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Cpu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Speed" Type="Double" />
+    <Property Name="Ram" Type="Int32" />
+    <Property Name="Memory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gpu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OpSys" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Weight" Type="Double" />
+    <Property Name="Price_euros" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="TMDT5Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="laptops" EntityType="Self.laptop" />
+  </EntityContainer>
+</Schema>

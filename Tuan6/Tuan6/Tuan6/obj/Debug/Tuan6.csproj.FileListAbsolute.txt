@@ -1,0 +1,235 @@
+D:\VisualStudio\Tuan6\Tuan6\bin\Tuan6.dll.config
+D:\VisualStudio\Tuan6\Tuan6\bin\Tuan6.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\Tuan6.pdb
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\csc.exe
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\csc.exe.config
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\csc.rsp
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\csi.exe
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\csi.exe.config
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\csi.rsp
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.AppContext.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Console.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Globalization.Calendars.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.IO.Compression.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.IO.FileSystem.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Net.Http.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Net.Sockets.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.ValueTuple.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Xml.XPath.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\vbc.exe
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\vbc.exe.config
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\vbc.rsp
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+D:\VisualStudio\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+D:\VisualStudio\Tuan6\Tuan6\bin\Antlr3.Runtime.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\Newtonsoft.Json.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Helpers.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Mvc.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Optimization.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Razor.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.WebPages.Deployment.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.WebPages.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.WebPages.Razor.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\WebGrease.dll
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Helpers.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Mvc.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Optimization.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.Razor.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.WebPages.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.WebPages.Deployment.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\System.Web.WebPages.Razor.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\Newtonsoft.Json.xml
+D:\VisualStudio\Tuan6\Tuan6\bin\Antlr3.Runtime.pdb
+D:\VisualStudio\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VisualStudio\Tuan6\Tuan6\obj\Debug\Tuan6.csprojAssemblyReference.cache
+D:\VisualStudio\Tuan6\Tuan6\obj\Debug\Tuan6.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Tuan6\Tuan6\obj\Debug\Tuan6.csproj.CopyComplete
+D:\VisualStudio\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+D:\VisualStudio\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Tuan6.dll.config
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Tuan6.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Tuan6.pdb
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\csc.exe
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\csc.exe.config
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\csc.rsp
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\csi.exe
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\csi.exe.config
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\csi.rsp
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.AppContext.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Console.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.IO.Compression.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Net.Http.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.ValueTuple.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\vbc.exe
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\vbc.exe.config
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\vbc.rsp
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Antlr3.Runtime.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Newtonsoft.Json.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Helpers.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Mvc.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Optimization.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Razor.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.WebPages.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.WebPages.Razor.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\WebGrease.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Helpers.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Mvc.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Optimization.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.Razor.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.WebPages.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\System.Web.WebPages.Razor.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Newtonsoft.Json.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Antlr3.Runtime.pdb
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\obj\Debug\Tuan6.csprojAssemblyReference.cache
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\obj\Debug\Tuan6.csproj.CoreCompileInputs.cache
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\obj\Debug\Tuan6.csproj.CopyComplete
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+C:\Users\saobi\OneDrive\Máy tính\Tuan6\Tuan6\obj\Debug\Tuan6.pdb
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Tuan6.dll.config
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Tuan6.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Tuan6.pdb
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\obj\Debug\Tuan6.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\obj\Debug\Tuan6.dll
+C:\Users\Administrator\Desktop\Tuan6-20201115T065615Z-001\Tuan6\Tuan6\obj\Debug\Tuan6.pdb

@@ -1,0 +1,169 @@
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\BuoiTH2.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\BuoiTH2.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\BuoiTH2.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Optimization.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Antlr3.Runtime.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BuoiTH2\BuoiTH2\bin\PayPal.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BuoiTH2\BuoiTH2\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BuoiTH2\BuoiTH2\bin\PayPal.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\ApplicationInsights.config
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\csc.exe
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\System.Collections.Immutable.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\System.Reflection.Metadata.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\vbc.exe
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\VBCSCompiler.exe
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\roslyn\VBCSCompiler.exe.config
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\BuoiTH2.dll.config
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\BuoiTH2.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\BuoiTH2.pdb
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Antlr3.Runtime.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\EntityFramework.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\EntityFramework.SqlServer.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.DependencyCollector.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.Web.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.WindowsServer.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.ApplicationInsights.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Google.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Web.Infrastructure.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Newtonsoft.Json.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Owin.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\PayPal.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Helpers.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Mvc.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Optimization.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Razor.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Deployment.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Razor.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\WebGrease.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.DependencyCollector.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.Web.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AI.WindowsServer.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.ApplicationInsights.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Newtonsoft.Json.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\PayPal.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Helpers.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Mvc.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Optimization.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.Razor.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Deployment.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\System.Web.WebPages.Razor.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Antlr3.Runtime.pdb
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\EntityFramework.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\EntityFramework.SqlServer.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Google.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\TMĐtử\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.csprojAssemblyReference.cache
+E:\TMĐtử\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.csproj.CopyComplete
+E:\TMĐtử\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.dll
+E:\TMĐtử\BuoiTH2\BuoiTH2\obj\Debug\BuoiTH2.pdb

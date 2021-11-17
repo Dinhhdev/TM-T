@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+    <div class="row">
+        <div class="col-md-2">
+            @{ Html.RenderAction("LeftBanner", "Banner");}
+        </div>
+        <div class="col-md-2">
+            <h2></h2>
+
+        </div>
+        <div class="col-md-2">
+            <h2></h2>
+            <p></p>
+            <p></p>
+        </div>
+        <div class="col-md-2">
+            <h2>LAB3 TMĐT </h2>
+            <p></p>
+            <p></p>
+        </div>
+        <div class="col-md-2">
+            <h2></h2>
+            <p></p>
+            <p></p>
+        </div>
+        <div class="col-md-2">
+            @{ Html.RenderAction("RightBanner", "Banner");}
+        </div>
+    </div>

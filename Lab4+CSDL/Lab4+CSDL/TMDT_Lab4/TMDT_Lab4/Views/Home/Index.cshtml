@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "Lọc Sản Phẩm";
+}
+
+<h1>CHI TIẾT LỌC SẢN PHẨM</h1>
+
+<input type="button" name="name" onclick="find();" value="Assign (Lọc)" />
+
+@{Html.RenderAction("getSearchFilter", "Home"); }
+<h1>Sản Phẩm được lọc theo yêu cầu: </h1>
+<ul id="laptop"></ul>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(document).ready(function () {
+        find();
+    });
+    function formatItem(item) {
+        return item.Product + ':' + item.ScreenResolution + ":" + item.TypeName + ":" + item.Inches + ":" + item.Cpu + ":" + item.Speed + ":" + item.Memory + ":" + item.Ram + ":" + item.Gpu + ":" + item.OpSys + ":" + item.Weight;
+    }
+    function find() {
+
+        $('#laptop').text('');
+
+        var model = {};
+
+        model.Company = [];
+        $("input[name='Company[]']:checked").each(function () {
+            model.Company.push($(this).val());
+
+        });
+
+        model.ScreenResolution = [];
+        $("input[name='ScreenResolution[]']:checked").each(function () {
+            model.ScreenResolution.push($(this).val());
+        });
+
+        model.TypeName = [];
+        $("input[name='TypeName[]']:checked").each(function () {
+            model.TypeName.push($(this).val());
+        });
+
+        model.Inches = [];
+        $("input[name='Inches[]']:checked").each(function () {
+            model.Inches.push($(this).val());
+        });
+
+        model.CPU = [];
+        $("input[name='CPU[]']:checked").each(function () {
+            model.CPU.push($(this).val());
+        });
+
+        model.Speed = [];
+        $("input[name='Speed[]']:checked").each(function () {
+            model.Speed.push($(this).val());
+        });
+
+        model.Memory = [];
+        $("input[name='Memory[]']:checked").each(function () {
+            model.Memory.push($(this).val());
+        });
+
+        model.Ram = [];
+        $("input[name='Ram[]']:checked").each(function () {
+            model.Ram.push($(this).val());
+        });
+
+        model.Gpu = [];
+        $("input[name='Gpu[]']:checked").each(function () {
+            model.Gpu.push($(this).val());
+        });
+
+        model.Gen = [];
+        $("input[name='Gen[]']:checked").each(function () {
+            model.Gen.push($(this).val());
+        });
+
+        model.Os = [];
+        $("input[name='Os[]']:checked").each(function () {
+            model.Os.push($(this).val());
+        });
+
+        model.Weight = [];
+        $("input[name='Weight[]']:checked").each(function () {
+            model.Weight.push($(this).val());
+        });
+
+
+        $.ajax({
+            type: "POST",
+            data: JSON.stringify(model),
+            url: "../../api/LaptopAPI/Search",
+            contentType: "application/json"
+        }).done(function (data) {
+            $.each(data, function (key, item) {
+                $('<li>', { text: formatItem(item) }).appendTo($('#laptop'));
+            });
+        }).fail(function (jqXHR, textStatus, err) {
+            $('#laptop').text('Error:' + err);
+        });
+    }
+</script>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TMDT5Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="laptops">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Company" Type="nvarchar" MaxLength="50" />
+    <Property Name="Product" Type="nvarchar" MaxLength="50" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Inches" Type="float" />
+    <Property Name="ScreenResolution" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cpu" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gen" Type="nvarchar" MaxLength="50" />
+    <Property Name="Speed" Type="float" />
+    <Property Name="Ram" Type="int" />
+    <Property Name="Memory" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gpu" Type="nvarchar" MaxLength="50" />
+    <Property Name="OpSys" Type="nvarchar" MaxLength="50" />
+    <Property Name="Weight" Type="float" />
+    <Property Name="Price_euros" Type="float" />
+  </EntityType>
+  <EntityContainer Name="TMDT5ModelStoreContainer">
+    <EntitySet Name="laptops" EntityType="Self.laptops" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

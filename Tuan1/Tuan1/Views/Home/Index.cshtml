@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Tuan1.Models.Category>
+@{
+    ViewBag.Title = "Home page";
+}
+<h2>Danh Sách Các Sản Phẩm : </h2>
+<ul>
+    @foreach (var i in Model)
+    {
+        <li><a href="/@i.Alias">@i.Name</a></li>
+       
+    }
+</ul>
+

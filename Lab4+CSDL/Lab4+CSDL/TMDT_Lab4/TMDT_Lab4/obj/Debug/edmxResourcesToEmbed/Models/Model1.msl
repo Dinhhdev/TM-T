@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TMDT5ModelStoreContainer" CdmEntityContainer="TMDT5Entities">
+    <EntitySetMapping Name="laptops">
+      <EntityTypeMapping TypeName="TMDT5Model.laptop">
+        <MappingFragment StoreEntitySet="laptops">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="Product" ColumnName="Product" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="Inches" ColumnName="Inches" />
+          <ScalarProperty Name="ScreenResolution" ColumnName="ScreenResolution" />
+          <ScalarProperty Name="Cpu" ColumnName="Cpu" />
+          <ScalarProperty Name="Gen" ColumnName="Gen" />
+          <ScalarProperty Name="Speed" ColumnName="Speed" />
+          <ScalarProperty Name="Ram" ColumnName="Ram" />
+          <ScalarProperty Name="Memory" ColumnName="Memory" />
+          <ScalarProperty Name="Gpu" ColumnName="Gpu" />
+          <ScalarProperty Name="OpSys" ColumnName="OpSys" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Price_euros" ColumnName="Price_euros" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

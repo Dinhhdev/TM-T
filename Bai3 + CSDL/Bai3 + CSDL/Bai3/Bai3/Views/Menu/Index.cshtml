@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Bai3.Models.Menu>
+@{
+    ViewBag.Title = "Index";
+}
+
+<nav>
+
+    <ul>
+
+        <li>
+
+            <a href="#">ĐIỆN THOẠI</a>
+
+            <input type="checkbox" id="btn-2">
+            <ul>
+
+                @foreach (var item in Model.Where(c => c.ParentID == null).OrderBy(c => c.SortOrder))
+                {
+                    <li>
+                        <a class="dropdown-item" href="@item.Alias" style="width:150%">
+                            @item.Name
+                        </a>
+
+                        @RenderMenuItem(Model.ToList(), item, item.Alias)
+                    </li>
+
+                }
+
+
+            </ul>
+            
+          
+        </li>
+       
+    </ul>
+</nav>
+
+
+@section scripts{
+    <script>
+        $('.icon').click(function () {
+            $('span').toggleClass("cancel");
+        });
+    </script>
+
+}
+
+@helper RenderMenuItem(List<Bai3.Models.Menu> list, Bai3.Models.Menu itemMenu, string alias)
+{
+
+
+    <ul style="">
+        @foreach (var item in list.Where(c => c.ParentID == itemMenu.ID).OrderBy(c => c.SortOrder))
+        {
+            <li>
+
+                <label for="btn-3" class="show">+</label>
+                
+                <input type="checkbox" id="btn-2">
+                <a href="@alias/@item.Alias" style="width:100%">
+                    @item.Name
+                </a>
+                @RenderMenuItem(list, item, item.Alias)
+            </li>
+        }
+    </ul>
+}
+
+
+
+
